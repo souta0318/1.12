@@ -2509,807 +2509,807 @@ const championSkills = {
   },
   "ノーチラス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "鉄の錨",
       "description": "ノーチラスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "錨投げ",
       "description": "ノーチラスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "大海の激憤",
       "description": "ノーチラスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "粉砕水",
       "description": "ノーチラスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "爆雷発射",
       "description": "ノーチラスのRスキル説明文"
     }
   },
   "ノクターン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "夢幻斬",
       "description": "ノクターンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "闇の手",
       "description": "ノクターンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "漆黒の帳",
       "description": "ノクターンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "底知れぬ恐怖",
       "description": "ノクターンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "パラノイア",
       "description": "ノクターンのRスキル説明文"
     }
   },
   "バード": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "旅人の呼び声",
       "description": "バードのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "宇宙の法則",
       "description": "バードのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "回復の遺物",
       "description": "バードのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "精霊の旅路",
       "description": "バードのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "運命の調律",
       "description": "バードのRスキル説明文"
     }
   },
   "パイク": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "沈みし者の力",
       "description": "パイクのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ボーンスキューア",
       "description": "パイクのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ゴーストウォーター",
       "description": "パイクのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "亡者の引き波",
       "description": "パイクのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "水底の急襲",
       "description": "パイクのRスキル説明文"
     }
   },
   "ハイマーディンガー": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ヘクステックの親和性",
       "description": "ハイマーディンガーのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "H-28G革新砲",
       "description": "ハイマーディンガーのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ヘクステック小型ロケット",
       "description": "ハイマーディンガーのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "CH-2超電磁グレネード",
       "description": "ハイマーディンガーのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "アップグレード！！！",
       "description": "ハイマーディンガーのRスキル説明文"
     }
   },
   "パンテオン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "定命の意志",
       "description": "パンテオンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "彗星の槍",
       "description": "パンテオンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "跳撃の盾",
       "description": "パンテオンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "イージスの猛攻",
       "description": "パンテオンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "偉大なる星路",
       "description": "パンテオンのRスキル説明文"
     }
   },
   "ビクター": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "グロリアス・エヴォリューション",
       "description": "ビクターのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "パワーブラスト",
       "description": "ビクターのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "グラビティフィールド",
       "description": "ビクターのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "デス・レイ",
       "description": "ビクターのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "カオスストーム",
       "description": "ビクターのRスキル説明文"
     }
   },
   "フィオラ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "デュエリスト・ダンス",
       "description": "フィオラのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ファント",
       "description": "フィオラのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "リポスト",
       "description": "フィオラのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ブレードワーク",
       "description": "フィオラのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "グランドチャレンジ",
       "description": "フィオラのRスキル説明文"
     }
   },
   "フィズ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "シーファイター",
       "description": "フィズのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ウニトゲストライク",
       "description": "フィズのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "シートライデント",
       "description": "フィズのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "プレイ/トリックスター",
       "description": "フィズのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "フィッシング",
       "description": "フィズのRスキル説明文"
     }
   },
   "フィドルスティック": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "無害なカカシ",
       "description": "フィドルスティックのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "テラー",
       "description": "フィドルスティックのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "豊かな収穫",
       "description": "フィドルスティックのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "刈り取り",
       "description": "フィドルスティックのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "クロウストーム",
       "description": "フィドルスティックのRスキル説明文"
     }
   },
   "フェイ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "夢想家の銘",
       "description": "フェイのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "題材: 厄災",
       "description": "フェイのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "題材: 静謐",
       "description": "フェイのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "題材: 苦悩",
       "description": "フェイのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "絶望の渦",
       "description": "フェイのRスキル説明文"
     }
   },
   "ブライアー": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "真紅の呪い",
       "description": "ブライアーのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ヘッドラッシュ",
       "description": "ブライアーのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "血の狂乱 / 衝動噛み",
       "description": "ブライアーのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "呪福の叫び",
       "description": "ブライアーのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "迫りくる死",
       "description": "ブライアーのRスキル説明文"
     }
   },
   "ブラウム": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "漢の拳",
       "description": "ブラウムのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "冬の凍瘡",
       "description": "ブラウムのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ワシに任せとけ！",
       "description": "ブラウムのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "不破の盾",
       "description": "ブラウムのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "氷河の裂溝",
       "description": "ブラウムのRスキル説明文"
     }
   },
   "ブラッドミア": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "真紅の盟約",
       "description": "ブラッドミアのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "吸血",
       "description": "ブラッドミアのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "紅血の沼",
       "description": "ブラッドミアのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "血液奔流",
       "description": "ブラッドミアのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "呪血の渦",
       "description": "ブラッドミアのRスキル説明文"
     }
   },
   "ブランド": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "炎上",
       "description": "ブランドのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "焦炎",
       "description": "ブランドのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "烈火の柱",
       "description": "ブランドのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "焼灼",
       "description": "ブランドのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "業火",
       "description": "ブランドのRスキル説明文"
     }
   },
   "ブリッツクランク": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "マナバリア",
       "description": "ブリッツクランクのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ロケットグラブ",
       "description": "ブリッツクランクのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "オーバードライブ",
       "description": "ブリッツクランクのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "パワーフィスト",
       "description": "ブリッツクランクのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "イナズマフィールド",
       "description": "ブリッツクランクのRスキル説明文"
     }
   },
   "ベイガー": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "偉大なる悪の力",
       "description": "ベイガーのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "イーヴィルストライク",
       "description": "ベイガーのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ダークマター",
       "description": "ベイガーのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "イベントホライズン",
       "description": "ベイガーのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "メテオバースト",
       "description": "ベイガーのRスキル説明文"
     }
   },
   "へカリム": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ウォーパス",
       "description": "へカリムのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ランページ",
       "description": "へカリムのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ソウルドレイン",
       "description": "へカリムのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "チャージ",
       "description": "へカリムのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "スペクターズ・オンスロート",
       "description": "へカリムのRスキル説明文"
     }
   },
   "ベル＝ヴェス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "死のラベンダー",
       "description": "ベル＝ヴェスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ヴォイドサージ",
       "description": "ベル＝ヴェスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "天と地",
       "description": "ベル＝ヴェスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ロイヤルストーム",
       "description": "ベル＝ヴェスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "終わりなき晩餐",
       "description": "ベル＝ヴェスのRスキル説明文"
     }
   },
   "ポッピー": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "鋼鉄の大使",
       "description": "ポッピーのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ハンマーショック",
       "description": "ポッピーのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ステッドファスト",
       "description": "ポッピーのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ヒロイックチャージ",
       "description": "ポッピーのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "守護者の鉄鎚",
       "description": "ポッピーのRスキル説明文"
     }
   },
   "ボリベア": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "無慈悲の嵐",
       "description": "ボリベアのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "稲妻の猛攻",
       "description": "ボリベアのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "激昂の斬撃",
       "description": "ボリベアのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "天破の一撃",
       "description": "ボリベアのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "嵐を起こす者",
       "description": "ボリベアのRスキル説明文"
     }
   },
   "マオカイ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "魔樹液",
       "description": "マオカイのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "茨打ち",
       "description": "マオカイのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "樹人の進撃",
       "description": "マオカイのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "苗木投げ",
       "description": "マオカイのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "大地の捕縛",
       "description": "マオカイのRスキル説明文"
     }
   },
   "マスター・イー": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ダブルストライク",
       "description": "マスター・イーのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "アルファストライク",
       "description": "マスター・イーのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "明鏡止水",
       "description": "マスター・イーのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ウージュースタイル",
       "description": "マスター・イーのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ハイランダー",
       "description": "マスター・イーのRスキル説明文"
     }
   },
   "マルザハール": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ヴォイドシフト",
       "description": "マルザハールのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ヴォイドコール",
       "description": "マルザハールのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ヴォイドスワーム",
       "description": "マルザハールのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "虚性侵蝕",
       "description": "マルザハールのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ネザーグラスプ",
       "description": "マルザハールのRスキル説明文"
     }
   },
   "マルファイト": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "グラナイトシールド",
       "description": "マルファイトのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "サイズミックシャード",
       "description": "マルファイトのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "サンダークラップ",
       "description": "マルファイトのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "グラウンドスラム",
       "description": "マルファイトのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "アンストッパブル・フォース",
       "description": "マルファイトのRスキル説明文"
     }
   },
   "ミス・フォーチュン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ラブタップ",
       "description": "ミス・フォーチュンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ダブルアップ",
       "description": "ミス・フォーチュンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ストラット",
       "description": "ミス・フォーチュンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "レイニングバレット",
       "description": "ミス・フォーチュンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "バレットタイム",
       "description": "ミス・フォーチュンのRスキル説明文"
     }
   },
   "ミリオ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ファイヤーアップ！",
       "description": "ミリオのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ウルトラメガファイヤーキック",
       "description": "ミリオのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "癒しの焚き火",
       "description": "ミリオのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "抱擁のぬくもり",
       "description": "ミリオのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "生命の息吹",
       "description": "ミリオのRスキル説明文"
     }
   },
   "モルガナ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ソウルサイフォン",
       "description": "モルガナのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ダークバインド",
       "description": "モルガナのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "苦悶の影",
       "description": "モルガナのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ブラックシールド",
       "description": "モルガナのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "魂の足枷",
       "description": "モルガナのRスキル説明文"
     }
   },
   "モルデカイザー": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "無窮の闇",
       "description": "モルデカイザーのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "滅魂の一撃",
       "description": "モルデカイザーのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "不滅の鎧",
       "description": "モルデカイザーのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "死の呪縛",
       "description": "モルデカイザーのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "死の国",
       "description": "モルデカイザーのRスキル説明文"
     }
   },
   "ヤスオ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "浪人道",
       "description": "ヤスオのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "抜刀",
       "description": "ヤスオのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "風殺の壁",
       "description": "ヤスオのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "風薙ぎ",
       "description": "ヤスオのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "鬼哭啾々",
       "description": "ヤスオのRスキル説明文"
     }
   },
   "ユーミ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ネコはトモダチ",
       "description": "ユーミのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "きまぐれミサイル",
       "description": "ユーミのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ユー＆ミー！",
       "description": "ユーミのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "バビューン！",
       "description": "ユーミのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ファイナルチャプター",
       "description": "ユーミのRスキル説明文"
     }
   },
   "ヨネ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "狩鬼道",
       "description": "ヨネのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "斬命刀",
       "description": "ヨネのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "霊断刀",
       "description": "ヨネのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "縛魂の解放",
       "description": "ヨネのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "冥封一閃",
       "description": "ヨネのRスキル説明文"
     }
   },
   "ヨリック": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "魂の導き手",
       "description": "ヨリックのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "葬送",
       "description": "ヨリックのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "屍の列",
       "description": "ヨリックのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "悲嘆の霧",
       "description": "ヨリックのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "嘆きの墓標",
       "description": "ヨリックのRスキル説明文"
     }
   },
   "ライズ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "古代の呪術",
       "description": "ライズのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "オーバーロード",
       "description": "ライズのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ルーンプリズン",
       "description": "ライズのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "スペルフラックス",
       "description": "ライズのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ポータルワープ",
       "description": "ライズのRスキル説明文"
     }
   },
   "ラカン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "神秘の翼",
       "description": "ラカンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "キラリ羽根",
       "description": "ラカンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "華麗なる登場",
       "description": "ラカンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "バトルダンス",
       "description": "ラカンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "みんなオレに夢中",
       "description": "ラカンのRスキル説明文"
     }
   },
   "ラックス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "イルミネーション",
       "description": "ラックスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ライトバインド",
       "description": "ラックスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "プリズムバリア",
       "description": "ラックスのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "シンギュラリティ",
       "description": "ラックスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ファイナルスパーク",
       "description": "ラックスのRスキル説明文"
     }
   },
   "ラムス": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "トゲトゲ",
       "description": "ラムスのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ころころ",
       "description": "ラムスのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ぴりぴり",
       "description": "ラムスのWスキル説明文"
     },
     "E": {
@@ -3317,293 +3317,293 @@ const championSkills = {
       "description": "ラムスのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "どーんどーん",
       "description": "ラムスのRスキル説明文"
     }
   },
   "ランブル": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ポンコツタイタン",
       "description": "ランブルのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "スピットファイア",
       "description": "ランブルのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ジャンクシールド",
       "description": "ランブルのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "エレクトロハープーン",
       "description": "ランブルのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "イコライザー",
       "description": "ランブルのRスキル説明文"
     }
   },
   "リー・シン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "練気",
       "description": "リー・シンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "響掌/共鳴撃",
       "description": "リー・シンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "守りの型/鉄の意志",
       "description": "リー・シンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "破風/縛脚",
       "description": "リー・シンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "龍の怒り",
       "description": "リー・シンのRスキル説明文"
     }
   },
   "リヴェン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ルーンブレード",
       "description": "リヴェンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "折れた翼",
       "description": "リヴェンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "気功破",
       "description": "リヴェンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "勇躍",
       "description": "リヴェンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "追放者の剣",
       "description": "リヴェンのRスキル説明文"
     }
   },
   "リサンドラ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "アイスボーンへの服従",
       "description": "リサンドラのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "アイスシャード",
       "description": "リサンドラのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "リング・オブ・フロスト",
       "description": "リサンドラのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "グラシアルパス",
       "description": "リサンドラのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "フローズングレイブ",
       "description": "リサンドラのRスキル説明文"
     }
   },
   "リリア": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "夢を集める大枝",
       "description": "リリアのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "花開く風",
       "description": "リリアのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ひゃっ、あぶない！",
       "description": "リリアのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "コロコロの種",
       "description": "リリアのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "夢見の子守唄",
       "description": "リリアのRスキル説明文"
     }
   },
   "ルシアン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "二挺拳銃",
       "description": "ルシアンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ピアシングライト",
       "description": "ルシアンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "アーデントブレイズ",
       "description": "ルシアンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "スライド",
       "description": "ルシアンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "二挺掃射",
       "description": "ルシアンのRスキル説明文"
     }
   },
   "ルブラン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "鏡像",
       "description": "ルブランのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "シジルマリス",
       "description": "ルブランのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "ディストーション",
       "description": "ルブランのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "エーテルチェイン",
       "description": "ルブランのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "再演",
       "description": "ルブランのRスキル説明文"
     }
   },
   "ルル": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "仲良し妖精ピックス",
       "description": "ルルのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ぴかぴかビーム",
       "description": "ルルのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "イタズラ",
       "description": "ルルのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ピックス、おねがい！",
       "description": "ルルのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "おおきくなぁれ！",
       "description": "ルルのRスキル説明文"
     }
   },
   "レオナ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "サンライト",
       "description": "レオナのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "シールド・オブ・デイブレイク",
       "description": "レオナのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "エクリプス",
       "description": "レオナのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ゼニスブレード",
       "description": "レオナのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ソーラーフレア",
       "description": "レオナのRスキル説明文"
     }
   },
   "レク＝サイ": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "ゼル＝サイの怒り",
       "description": "レク＝サイのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "女王の怒り/獲物定め",
       "description": "レク＝サイのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "潜伏/襲撃",
       "description": "レク＝サイのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "激情の牙/掘削",
       "description": "レク＝サイのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "ヴォイドラッシュ",
       "description": "レク＝サイのRスキル説明文"
     }
   },
   "レナータ・グラスク": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "レバレッジ",
       "description": "レナータ・グラスクのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "手荒い挨拶",
       "description": "レナータ・グラスクのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "緊急支援",
       "description": "レナータ・グラスクのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "ロイヤリティープログラム",
       "description": "レナータ・グラスクのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "敵対的買収",
       "description": "レナータ・グラスクのRスキル説明文"
     }
   },
   "レネクトン": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "激情の支配",
       "description": "レネクトンのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "ミートカット",
       "description": "レネクトンのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "メッタ斬り",
       "description": "レネクトンのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "スライス・アンド・ダイス",
       "description": "レネクトンのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "セベクの怒り",
       "description": "レネクトンのRスキル説明文"
     }
   },
   "レル": {
     "passive": {
-      "name": "パッシブ名",
+      "name": "革新の鬨",
       "description": "レルのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "破鋼撃",
       "description": "レルのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "フェロマンシー: 装着",
       "description": "レルのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "重槍突貫",
       "description": "レルのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "磁気嵐流",
       "description": "レルのRスキル説明文"
     }
   },
@@ -3613,19 +3613,19 @@ const championSkills = {
       "description": "レンガーのパッシブ説明文"
     },
     "Q": {
-      "name": "Qスキル名",
+      "name": "逆上",
       "description": "レンガーのQスキル説明文"
     },
     "W": {
-      "name": "Wスキル名",
+      "name": "狩りの雄叫び",
       "description": "レンガーのWスキル説明文"
     },
     "E": {
-      "name": "Eスキル名",
+      "name": "鉄球の投げ縄",
       "description": "レンガーのEスキル説明文"
     },
     "R": {
-      "name": "Rスキル名",
+      "name": "狩猟本能",
       "description": "レンガーのRスキル説明文"
     }
   },
