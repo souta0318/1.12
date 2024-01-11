@@ -163,7 +163,7 @@ var champions = [
   {name: "レナータ・グラスク", role: "メイジ/サポート", damage: {AD: 14, AP: 60, True: 26}, lane: "SUP",imgSrc: "../images/チャンピオンimg/レナータ・グラスク/レナータ・グラスク.jpg"},
   {name: "レネクトン", role: "ファイター/タンク", damage: {AD: 82, AP: 15, True: 3}, lane: "TOP",imgSrc: "../images/チャンピオンimg/レネクトン/レネクトン.jpg"},
   {name: "レル", role: "サポート/タンク", damage: {AD: 23, AP: 65, True: 12}, lane: "JG/SUP",imgSrc: "../images/チャンピオンimg/レル/レル.jpg"},
-  {name: "レンガ―", role: "アサシン/ファイター", damage: {AD: 87, AP: 7, True: 6}, lane: "JG",imgSrc: "../images/チャンピオンimg/レンガ―/レンガ―.jpg"},
+  {name: "レンガー", role: "アサシン/ファイター", damage: {AD: 87, AP: 7, True: 6}, lane: "JG",imgSrc: "../images/チャンピオンimg/レンガ―/レンガ―.jpg"},
   {name: "ワーウィック", role: "ファイター/タンク", damage: {AD: 45, AP: 49, True: 6}, lane: "JG",imgSrc: "../images/チャンピオンimg/ワーウィック/ワーウィック.jpg"},
   {name: "フェイ", role: "メイジ", damage: {AD: 7, AP: 92, True: 1}, lane: "MID",imgSrc: "../images/チャンピオンimg/フェイ/フェイ.png"}
 ];
