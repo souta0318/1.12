@@ -42,7 +42,7 @@ function toggleTableVisibility(type, filter) {
 window.addEventListener("load", () => {
   const buttons = document.querySelectorAll('button[name="filter"]');
   const tableBodies = {
-    mythic: document.getElementById("mythicitem-table-body"),
+    
     legendary: document.getElementById("legendaryitem-table-body"),
     epic: document.getElementById("epicitem-table-body"),
     basic: document.getElementById("basicitem-table-body"),
@@ -53,7 +53,6 @@ window.addEventListener("load", () => {
   };
 
   const columnsForType = {
-    mythic: ["name", "effect", "passive", "mythicEffect", "money"],
     legendary: ["name", "effect", "passive", "money"],
     epic: ["name", "effect", "passive", "money"],
     basic: ["name", "effect", "passive", "money"],
@@ -64,13 +63,12 @@ window.addEventListener("load", () => {
   };
 
   const tableHeaders = {
-    mythic: ["ミシックアイテム", "追加効果", "自動＆発動効果", "ミシック効果", "必要ゴールド"],
-    legendary: ["レジェンダリーアイテム", "追加効果", "自動＆発動効果", "必要ゴールド"],
-    epic: ["エピックアイテム", "追加効果", "自動＆発動効果", "必要ゴールド"],
-    basic: ["ベーシックアイテム", "追加効果", "自動＆発動効果", "必要ゴールド"],
-    starter: ["スターターアイテム", "追加効果", "自動＆発動効果", "必要ゴールド"],
-    boots: ["ブーツ", "追加効果", "必要ゴールド"],
-    portion: ["ポーション", "追加効果", "必要ゴールド"],
+    legendary: ["レジェンダリーアイテム", "ステータス効果", "自動＆発動効果", "必要ゴールド"],
+    epic: ["エピックアイテム", "ステータス効果", "自動＆発動効果", "必要ゴールド"],
+    basic: ["ベーシックアイテム", "ステータス効果", "自動＆発動効果", "必要ゴールド"],
+    starter: ["スターターアイテム", "ステータス効果", "自動＆発動効果", "必要ゴールド"],
+    boots: ["ブーツ", "ステータス効果", "必要ゴールド"],
+    portion: ["ポーション", "ステータス効果", "必要ゴールド"],
     Word: ["ワード", "追加効果", "必要ゴールド"]
   };
 
