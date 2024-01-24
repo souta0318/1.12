@@ -165,5 +165,5 @@ var champions = [
   {name: "レル", role: "サポート/タンク", damage: {AD: 23, AP: 65, True: 12}, lane: "JG/SUP",imgSrc: "../images/チャンピオンimg/レル/レル.jpg"},
   {name: "レンガー", role: "アサシン/ファイター", damage: {AD: 87, AP: 7, True: 6}, lane: "JG",imgSrc: "../images/チャンピオンimg/レンガ―/レンガ―.jpg"},
   {name: "ワーウィック", role: "ファイター/タンク", damage: {AD: 45, AP: 49, True: 6}, lane: "JG",imgSrc: "../images/チャンピオンimg/ワーウィック/ワーウィック.jpg"},
-  {name: "フェイ", role: "メイジ", damage: {AD: 7, AP: 92, True: 1}, lane: "MID",imgSrc: "../images/チャンピオンimg/フェイ/フェイ.png"}
+  {name: "フェイ（スキルが複雑なため調整中）", role: "メイジ", damage: {AD: 7, AP: 92, True: 1}, lane: "MID",imgSrc: "../images/チャンピオンimg/フェイ/フェイ.png"}
 ];
